@@ -2,16 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Max Comrie'
+- **CCID:** `mcomrie`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Chat GPT 5.2
 
 ## Verbal Collaboration
 
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+N/A
