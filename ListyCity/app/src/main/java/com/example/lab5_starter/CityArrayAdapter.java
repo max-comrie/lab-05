@@ -30,11 +30,8 @@ public class CityArrayAdapter extends ArrayAdapter<City> {
         }
 
         City city = cities.get(position);
-        TextView movieName = view.findViewById(R.id.textCityName);
-        TextView movieYear = view.findViewById(R.id.textCityProvince);
-
-        movieName.setText(city.getName());
-        movieYear.setText(city.getProvince());
+        TextView cityLine = view.findViewById(R.id.textCityLine);
+        cityLine.setText(city.getName() + " " + city.getProvince());
 
         return view;
     }

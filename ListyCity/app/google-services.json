@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601074103474",
+    "project_id": "lab-05-21967",
+    "storage_bucket": "lab-05-21967.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601074103474:android:64b8cf1b9dc022ac8f45ab",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUD39hV_dbZyWpHHuFIQuZEVx5zXw_RUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
