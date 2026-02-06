@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-Chat GPT 5.2
+ChatGPT 5.2
 
 ## Verbal Collaboration
 
